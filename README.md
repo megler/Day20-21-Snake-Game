@@ -8,12 +8,5 @@ Use the arrow keys to move your snake.. Days 20-21Python Bootcamp
 Using the arrow keys, try to navigate to the round food items and eat them. You will lose
 if your snake touches itself or a wall.
 
-## Demo
-
-You can play the game on repl.it:
-
-
-
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
